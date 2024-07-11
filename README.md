@@ -19,9 +19,9 @@ Os diagramas que se seguem demonstram de forma macro, os fluxos de:
 
 **[authorization-validator-lambda](https://github.com/wellalencarweb/authorization-validator-lambda)**: Ambiente serverless que engloba a implementação da rota para a geração de tokens de usuário, uma função lambda para autorização e a configuração do API Gateway.
 
-**[k8s-cluster-infra](https://github.com/wellalencarweb/authorization-validator-lambda)**: Gerenciar a infraestrutura do cluster Kubernetes do projeto.
+**[k8s-cluster-infra](https://github.com/wellalencarweb/k8s-cluster-infra)**: Gerenciar a infraestrutura do cluster Kubernetes do projeto.
 
-**[sonarqube-infra](https://github.com/wellalencarweb/authorization-validator-lambda)**: Gerenciar uma máquina EC2 para hospedar o SonarQube.
+**[sonarqube-infra](https://github.com/wellalencarweb/sonarqube-infra)**: Gerenciar uma máquina EC2 para hospedar o SonarQube.
 
 
 <a id="ancora2"></a>
